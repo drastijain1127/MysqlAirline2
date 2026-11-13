@@ -1,0 +1,25 @@
+# Compiled Java class files
+*.class
+
+# MySQL JDBC driver (users should download their own)
+lib/mysql-connector-j-*.jar
+
+# Database credentials - keep private!
+# db.properties contains password, exclude from public repos
+# (Uncomment below line if you want to keep it private)
+# db.properties
+
+# Test files
+TestDB.java
+TestDB.class
+
+# IDE files
+.idea/
+*.iml
+.vscode/
+*.project
+*.classpath
+
+# OS files
+.DS_Store
+Thumbs.db

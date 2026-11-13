@@ -1,0 +1,3 @@
+@echo off
+echo Connecting to local MySQL Airlines DB on port 3307...
+"C:\Program Files\MySQL\MySQL Server 26.10\bin\mysql.exe" -u root -P 3307 -pDrasti@2007 airlines_db
